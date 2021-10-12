@@ -1,15 +1,55 @@
-body {
-	background-color: coral;
+<body>
+
+.third {
+	height: 25vh;
 }
 
-
-/*стилизуем заголовки 1-го уровна*/
-h1 {
-    color: purple;
-    font-size: 100px;
-    font-family: font-family: 'Roboto', sans-serif;
+.russia_1 {
+	background-color: white;
 }
-h2 {
-    color: pink;
-    font-size: 80px;
+.third {
+	height: 25vh;
+}
+
+.russia_2 {
+	background-color: blue; 
+}
+.third {
+	height: 25vh;
+}
+
+.russia_3 {
+	background-color: red; 
+}
+
+.third {
+	height: 25vh;
+}
+
+.ispania_1 {
+	background-color: red;
+}
+
+.third {
+	height: 25vh;
+}
+
+.ispania_2 {
+	background-color: yellow;
+}
+
+.third {
+	height: 25vh;
+}
+
+.ispania_3 {
+	background-color: red;
+}
+
+.therd {
+	height: 120vh;
+}
+
+.kazahstan_1 {
+	background-color: blue
 }
