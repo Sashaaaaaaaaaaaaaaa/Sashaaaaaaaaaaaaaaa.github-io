@@ -1,55 +1,31 @@
-<body>
+.container {
+    display: flex;
+    height: 400px;
+    background-color: purple;
 
-.third {
-	height: 25vh;
-}
+    justify-content: space-around;
 
-.russia_1 {
-	background-color: white;
-}
-.third {
-	height: 25vh;
+    align-items: stretch;
 }
 
-.russia_2 {
-	background-color: blue; 
-}
-.third {
-	height: 25vh;
+.stripe {
+	background-color: orange;
+	font-size: 50px;
+
+	flex-grow: 1;
 }
 
-.russia_3 {
-	background-color: red; 
+.first {
+    background-color: #ff0000;
+    flex-grow: 2;
 }
 
-.third {
-	height: 25vh;
+.second {
+	background-color: #00ff00;
+	flex-grow: 3;
 }
-
-.ispania_1 {
-	background-color: red;
-}
-
-.third {
-	height: 25vh;
-}
-
-.ispania_2 {
-	background-color: yellow;
-}
-
-.third {
-	height: 25vh;
-}
-
-.ispania_3 {
-	background-color: red;
-}
-
+  
 .therd {
-	height: 120vh;
-}
-
-.kazahstan_1 {
-	background-color: blue
+	background-color:  #0000ff;
+	flex-grow: 4;
 }
